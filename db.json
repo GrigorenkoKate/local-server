@@ -1,0 +1,40 @@
+{
+  "pictures": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 0,
+      "picture": ""
+    },
+    {
+      "id": "94e5",
+      "views": 0,
+      "picture": "",
+      "title": "123"
+    },
+    {
+      "id": "13d3",
+      "views": 0,
+      "picture": "",
+      "title": "55"
+    },
+    {
+      "id": "9e0a",
+      "views": 0,
+      "picture": "",
+      "title": "Kate G."
+    },
+    {
+      "id": "a950",
+      "views": 0,
+      "picture": "",
+      "title": "Natasha"
+    },
+    {
+      "id": "23b3",
+      "views": 0,
+      "picture": "",
+      "title": "Denis"
+    }
+  ]
+}

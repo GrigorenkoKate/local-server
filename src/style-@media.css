@@ -1,0 +1,20 @@
+@media screen and (max-width: 768px) {
+   .contaner {
+      margin: 0 auto;
+      padding: 25px 30px;
+      border-radius: 8px; 
+      width: 100%;
+      height: auto; 
+   
+   }
+   .form {      
+      max-width: 100%;  
+      
+   }
+   .pictures {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);      
+      grid-gap: 10px;
+   }
+
+}

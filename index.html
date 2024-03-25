@@ -1,15 +1,30 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="stylesheet" href="src/style.css">
+   <link rel="stylesheet" href="src/reset.css">
+   <link rel="stylesheet" href="src/style-@media.css">
    <title>local-server</title>
 </head>
+
 <body>
-   <h1>Hello local server</h1>
+   <div class="contaner">
+      <div class="header-title" >Форма отправки </div>
+      <form class="form" data-form="form">
+         <input class="form__title" type="text" name="title">
+         <button class="form__button" type="button" data-form="button">Сохранить</button>
+      </form>
 
+      <div class="header-title">Карточки с фото</div>
+      <div class="pictures" data-pictures="root">
 
-   <script src="src/app.js" ></script>
+      </div>
+
+      <script src="src/app.js"></script>
+   </div>
 </body>
+
 </html>
